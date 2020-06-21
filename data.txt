@@ -14,3 +14,7 @@
   name: toJSON-coeff-erhard-pretty-TRUE
   description: The ERHARD data set
   type: default
+- path: coeff-erhard
+  name: coeff-erhard
+  description: The ERHARD data set
+  type: default
