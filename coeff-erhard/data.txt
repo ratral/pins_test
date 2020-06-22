@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+rows: 12
+cols: 7
+columns:
+  producer: character
+  valve_name: character
+  valve_typ: character
+  m.cyl: character
+  source: character
+  coeff: list
+  zv: list
+description: The ERHARD data set
+type: table

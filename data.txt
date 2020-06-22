@@ -1,0 +1,6 @@
+- path: coeff-erhard
+  name: coeff-erhard
+  rows: 12
+  cols: 7
+  description: The ERHARD data set
+  type: table
